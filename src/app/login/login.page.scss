@@ -1,0 +1,29 @@
+page-home{ 
+
+    .iconlogin {
+      font-size: 120px;
+      color: #387ef5;
+    }
+    
+    .header{
+      font-size: 24px;
+      color: #387ef5;
+    }
+    
+    .login form {
+      margin-bottom: 32px;
+    }
+    
+    .login form button {
+      margin-top: 20px;
+    }
+    
+    .login form .invalid {
+        border-bottom: 1px solid #FF6153;
+      }
+    
+    .login form .error-message .item-inner {
+        border-bottom: 0 !important;
+      }
+    
+    }

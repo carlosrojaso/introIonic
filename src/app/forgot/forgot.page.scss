@@ -1,0 +1,15 @@
+.reset-password form {
+    margin-bottom: 32px;
+  }
+  
+  .reset-password form button {
+    margin-top: 20px;
+  }
+  
+  .reset-password form .invalid {
+      border-bottom: 1px solid #FF6153;
+    }
+  
+  .reset-passwordlogin form .error-message .item-inner {
+      border-bottom: 0 !important;
+    }
